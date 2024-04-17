@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "instrument": "Guitar",
+        "lesson":"Acoustic Guitar",
+        "description": "I am a beginner guitar player looking to learn how to play acoustic guitar.",
+        "age": 25,
+        "level": "Beginner"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "instrument": "Piano",
+        "lesson":"Piano",
+        "description": "I am a beginner piano player looking to learn how to play piano.",
+        "age": 30,
+        "level": "Beginner"
+    },
+    {
+        "id": 3,
+        "name": "John Smith",
+        "instrument": "Drums",
+        "lesson":"Drums",
+        "description": "I am a beginner drum player looking to learn how to play drums.",
+        "age": 35,
+        "level": "Beginner"
+    },
+    {
+        "id": 4,
+        "name": "Jane Smith",
+        "instrument": "Violin",
+        "lesson":"Violin",
+        "description": "I am a beginner violin player looking to learn how to play violin.",
+        "age": 40,
+        "level": "Beginner"
+    },
+    {
+        "id": 5,
+        "name": "John Doe",
+        "instrument": "Guitar",
+        "lesson":"Electric Guitar",
+        "description": "I am a beginner guitar player looking to learn how to play electric guitar.",
+        "age": 45,
+        "level": "Beginner"
+    },
+    {
+        "id": 6,
+        "name": "Jane Doe",
+        "instrument": "Piano",
+        "lesson":"Keyboard",
+        "description": "I am a beginner piano player looking to learn how to play keyboard.",
+        "age": 50,
+        "level": "Beginner"
+    },
+    {
+        "id": 7,
+        "name": "John Smith",
+        "instrument": "Drums",
+        "lesson":"Percussion",
+        "description": "I am a beginner drum player looking to learn how to play percussion.",
+        "age": 55,
+        "level": "Beginner"
+    },
+    {
+        "id": 8,
+        "name": "Jane Smith",
+        "instrument": "Violin",
+        "lesson":"Fiddle",
+        "description": "I am a beginner violin player looking to learn how to play fiddle.",
+        "age": 60,
+        "level": "Beginner"
+    }    
+]
