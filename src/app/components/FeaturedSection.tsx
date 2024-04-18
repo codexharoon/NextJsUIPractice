@@ -45,8 +45,8 @@ const FeaturedSection = () => {
         ))}
       </div>
 
-      <div className="flex justify-center mt-10">
-        <button className="rounded-full px-4 pr-1 py-5 text-white flex items-center space-x-1 bg-black text-xs font-bold dark:bg-zinc-800">
+      <div className="flex justify-center mt-20">
+        <button className="rounded-full px-4 py-5 text-white flex items-center space-x-1 bg-black text-xs font-bold dark:bg-zinc-800">
           <span className="text-sm">View All Lessons </span>
           <span className="bg-zinc-700 rounded-full text-[0.6rem] px-2 py-0 text-white">
             →
