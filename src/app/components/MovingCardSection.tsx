@@ -37,9 +37,9 @@ const testimonials = [
 
 const MovingCardSection = () => {
   return (
-    <div className="min-h-screen flex flex-col gap-4 justify-center items-center dark:bg-black dark:bg-grid-white/[0.2]">
-      <h2 className="font-bold text-xl sm:text-4xl">Reviews from Clients</h2>
-      <div className="p-4 max-w-7xl">
+    <div className="min-h-screen flex flex-col gap-4 md:gap-y-28 justify-center items-center dark:bg-black dark:bg-grid-white/[0.2]">
+      <h2 className="font-bold text-xl sm:text-5xl">Reviews from Clients</h2>
+      <div className="p-4">
         <InfiniteMovingCards
           items={testimonials}
           direction="right"
