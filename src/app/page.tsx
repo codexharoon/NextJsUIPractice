@@ -4,6 +4,7 @@ import FeaturedSection from "./components/FeaturedSection";
 import WhyUs from "./components/WhyUs";
 import MovingCardSection from "./components/MovingCardSection";
 import HoverCardsSEction from "./components/HoverCardsSection";
+import InstructorsSection from "./components/InstructorsSection";
 
 const page = () => {
   return (
@@ -13,6 +14,7 @@ const page = () => {
       <WhyUs />
       <MovingCardSection />
       <HoverCardsSEction />
+      <InstructorsSection />
     </main>
   );
 };
