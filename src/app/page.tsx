@@ -3,6 +3,7 @@ import HeroSection from "./components/HeroSection";
 import FeaturedSection from "./components/FeaturedSection";
 import WhyUs from "./components/WhyUs";
 import MovingCardSection from "./components/MovingCardSection";
+import HoverCardsSEction from "./components/HoverCardsSection";
 
 const page = () => {
   return (
@@ -11,6 +12,7 @@ const page = () => {
       <FeaturedSection />
       <WhyUs />
       <MovingCardSection />
+      <HoverCardsSEction />
     </main>
   );
 };

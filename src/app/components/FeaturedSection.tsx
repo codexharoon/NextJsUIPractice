@@ -25,7 +25,7 @@ const FeaturedSection = () => {
         Learn with the best
       </h3>
 
-      <div className="flex flex-wrap gap-10 mt-10 items-center">
+      <div className="flex flex-wrap gap-10 mt-10 items-center justify-center md:justify-start">
         {featuredData.map((item: featuredDataType) => (
           <BackgroundGradient className="rounded-[22px] p-4 sm:p-10 bg-white dark:bg-zinc-900 w-[400px]">
             <p className="text-base sm:text-xl text-black mt-4 mb-2 dark:text-neutral-200">
