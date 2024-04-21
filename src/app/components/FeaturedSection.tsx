@@ -3,6 +3,7 @@ import React from "react";
 import { BackgroundGradient } from "@/app/components/ui/background-gradient";
 // import { IconAppWindow } from "@tabler/icons-react";
 import data from "../../../data.json";
+import Link from "next/link";
 
 interface featuredDataType {
   id: number;
@@ -46,12 +47,15 @@ const FeaturedSection = () => {
       </div>
 
       <div className="flex justify-center mt-20">
-        <button className="rounded-full px-4 py-5 text-white flex items-center space-x-1 bg-black text-xs font-bold dark:bg-zinc-800">
+        <Link
+          href={"/lessons"}
+          className="rounded-full px-4 py-5 text-white flex items-center space-x-1 bg-black text-xs font-bold dark:bg-zinc-800"
+        >
           <span className="text-sm">View All Lessons </span>
           <span className="bg-zinc-700 rounded-full text-[0.6rem] px-2 py-0 text-white">
             →
           </span>
-        </button>
+        </Link>
       </div>
     </div>
   );
