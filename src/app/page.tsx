@@ -5,6 +5,7 @@ import WhyUs from "./components/WhyUs";
 import MovingCardSection from "./components/MovingCardSection";
 import HoverCardsSEction from "./components/HoverCardsSection";
 import InstructorsSection from "./components/InstructorsSection";
+import Footer from "./components/Footer";
 
 const page = () => {
   return (
@@ -15,6 +16,7 @@ const page = () => {
       <MovingCardSection />
       <HoverCardsSEction />
       <InstructorsSection />
+      <Footer />
     </main>
   );
 };
