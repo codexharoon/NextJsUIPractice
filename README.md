@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# UI
+
+![haroonxaceternity vercel app_](https://github.com/codexharoon/NextJsUIPractice/assets/104395720/feaa03a0-317f-4067-bab7-1509a9647104)
+
 
 ## Getting Started
 
